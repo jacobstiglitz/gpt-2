@@ -2,7 +2,9 @@
 
 Code and samples from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
-For now, we have only released a smaller (117M parameter) version of GPT-2.
+For now, we have only released the smaller (117M/345M parameter) versions of GPT-2.
+
+Jacob's colab notebook: https://colab.research.google.com/drive/1dIGN4RRlG-feWy8QbFJPDXxDUnY1gTZa#scrollTo=EtJaEOPW9EnG
 
 See more details in our [blog post](https://blog.openai.com/better-language-models/).
 
